@@ -1,0 +1,13 @@
+,entity_name,last_word
+0,depth,['centimetre' 'millimetre' 'inch' 'metre' 'foot']
+1,height,['centimetre' 'millimetre' 'inch' 'metre' 'foot']
+2,item_volume,"['cup' 'gallon' 'ounce' 'millilitre' 'foot' 'decilitre' 'inch' 'litre'
+ 'quart' 'pint' 'centilitre']"
+3,item_weight,"['gram' 'milligram' 'kilogram' 'ounce' 'pound' 'ton' 'microgram'
+ 'millilitre' 'gigabyte' '2kilogram' 'candela' 'cup' 'carat' '1kilogram'
+ 'litre' 'nits' 'inch' 'quart' 'watt' 'millimetre' 'centimetre']"
+4,maximum_weight_recommendation,"['kilogram' 'pound' 'ounce' 'ton' 'milligram' 'gram' 'microgram' 'person'
+ '1pound' 'foot' '2kilogram' 'horsepower']"
+5,voltage,['volt']
+6,wattage,['watt' 'horsepower' 'kilowatt' 'hour']
+7,width,['millimetre' 'centimetre' 'inch' 'foot' 'metre']

@@ -1,0 +1,6 @@
+**/*.pth
+**/*.ckpt
+**/wandb
+**/__pycache__
+**/*.jpg
+**/*.png
