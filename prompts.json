@@ -1,0 +1,10 @@
+{
+    "width" : "What is the width of the item?",
+    "depth" : "What is the depth of the item?",
+    "height" : "What is the height of the item?",
+    "item_weight" : "What is the weight of the item?",
+    "maximum_weight_recommendation" : "What is the maximum recommended weight for the item?",
+    "voltage" : "What is the voltage of the item?",
+    "wattage" : "What is the wattage of the item?",
+    "item_volume" : "What is the volume of the item?"
+}
